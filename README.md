@@ -8,6 +8,6 @@ My first visualization, featuring highlights of Grant Ament's season, can be fou
 
 ![](Resources/ament_dash.PNG)
 
-https://public.tableau.com/views/grant_ament_dashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Grant Ament 2021 Overview - Tableau Public Dashboard](https://public.tableau.com/views/grant_ament_dashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
