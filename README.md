@@ -12,11 +12,6 @@ I am always interested in receiving feedback on my work, so don't hesitate to sh
 
 
 
-
-## PLL Goalie Analyis (Through the first 9 games)
-
-![](Resources/goalie_dash.PNG)
-
 [An Analysis of PLL Goalies Through the First 9 Games](https://public.tableau.com/app/profile/peter.nielsen6109/viz/best_goalie_analysis/Dashboard1)
 
  
